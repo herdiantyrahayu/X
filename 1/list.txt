@@ -1,0 +1,75 @@
+:back
+python bot.py 6283137494514 doge
+cls
+python bot.py 6283137494512 doge
+cls
+python bot.py 6283137494495 doge
+cls
+python bot.py 6283137494547 doge
+cls
+python bot.py 6283137494493 doge
+cls
+python bot.py 6283137494506 doge
+cls
+python bot.py 6283137494507 doge
+cls
+python bot.py 6283137494505 doge
+cls
+python bot.py 6283137494504 doge
+cls
+python bot.py 6283137494502 doge
+cls
+python bot.py 6283137494498 doge
+cls
+python bot.py 6283137494540 doge
+cls
+python bot.py 6283137494514 zec
+cls
+python bot.py 6283137494512 zec
+cls
+python bot.py 6283137494495 zec
+cls
+python bot.py 6283137494547 zec
+cls
+python bot.py 6283137494493 zec
+cls
+python bot.py 6283137494506 zec
+cls
+python bot.py 6283137494507 zec
+cls
+python bot.py 6283137494505 zec
+cls
+python bot.py 6283137494504 zec
+cls
+python bot.py 6283137494502 zec
+cls
+python bot.py 6283137494498 zec
+cls
+python bot.py 6283137494540 zec
+cls
+python bot.py 6283137494514 ltc
+cls
+python bot.py 6283137494512 ltc
+cls
+python bot.py 6283137494495 ltc
+cls
+python bot.py 6283137494547 ltc
+cls
+python bot.py 6283137494493 ltc
+cls
+python bot.py 6283137494506 ltc
+cls
+python bot.py 6283137494507 ltc
+cls
+python bot.py 6283137494505 ltc
+cls
+python bot.py 6283137494504 ltc
+cls
+python bot.py 6283137494502 ltc
+cls
+python bot.py 6283137494498 ltc
+cls
+python bot.py 6283137494540 ltc
+cls
+timeout 300
+goto :back
